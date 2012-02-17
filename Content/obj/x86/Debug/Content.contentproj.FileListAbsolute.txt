@@ -1,0 +1,3 @@
+C:\Users\Jacob\Desktop\TheBigCity\EngineLibrary\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\TheBigCity\EngineLibrary\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\GameEngine\EngineLibrary\Content\obj\x86\Debug\ResolveAssemblyReference.cache
